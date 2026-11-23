@@ -1,8 +1,7 @@
 <h2>hey, I'm Leonardo 👋</h2>
 
-<a href="https://github.com/leonardocfaria"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=8B5CF6&vCenter=true&width=520&lines=I+make+models+fast%2C+observable+and+hard+to+trick.;Salvador+%E2%86%92+Liverpool+%E2%86%92+Leuven.;currently%3A+MSc+CS+(AI)+%40+KU+Leuven" alt="typing intro" /></a>
 
-I'm most interested in everything *around* the model: how it trains across machines, how it's served under load, how you notice when it starts going wrong, and how someone tries to break it.
+
 
 ```python
 class Leonardo:
