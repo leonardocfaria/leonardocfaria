@@ -5,11 +5,10 @@
 
 ```python
 class Leonardo:
-    based_in   = "Leuven, BE"                 # by way of Salvador 🇧🇷 and Liverpool 🇬🇧
-    studying   = "MSc Computer Science (AI) @ KU Leuven"
-    before     = "BSc CS @ Liverpool, First Class + 2 years TA-ing algorithms, networks & DBs"
-    into       = ["ML systems", "distributed training", "LLM security", "making CPUs go brrr"]
-    speaks     = ["pt", "en", "es"]
+    location  = "Leuven, Belgium"
+    studying  = "MSc Computer Science (AI) @ KU Leuven"
+    interests = ["ML systems", "distributed training", "LLM security"]
+    languages = ["Portuguese", "English", "Spanish"]
 ```
 
 ### 🔬 Highlight projects
