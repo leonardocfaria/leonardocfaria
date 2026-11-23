@@ -3,13 +3,7 @@
 
 
 
-```python
-class Leonardo:
-    location  = "Leuven, Belgium"
-    studying  = "MSc Computer Science (AI) @ KU Leuven"
-    interests = ["ML systems", "distributed training", "LLM security"]
-    languages = ["Portuguese", "English", "Spanish"]
-```
+MSc Computer Science (AI) student at KU Leuven, Belgium. I work on ML systems, distributed training and LLM security.
 
 ### 🔬 Highlight projects
 
