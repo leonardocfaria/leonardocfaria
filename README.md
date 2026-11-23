@@ -23,12 +23,11 @@ class Leonardo:
 | 🕵️ **[waf-log-anomaly](https://github.com/leonardocfaria/waf-log-anomaly)** | catches SQLi, XSS and scanners in nginx logs with rules + an Isolation Forest |
 
 <details>
-<summary><b>…and 9 more</b></summary>
+<summary><b>…and 8 more</b></summary>
 <br>
 
 | | |
 |---|---|
-| **[ddp-training-lab](https://github.com/leonardocfaria/ddp-training-lab)** | PyTorch DDP on CPU; kills a worker mid-run and proves the resume is exact |
 | **[model-compression-study](https://github.com/leonardocfaria/model-compression-study)** | quantisation vs pruning vs distillation: what you lose, what you win |
 | **[mini-feature-store](https://github.com/leonardocfaria/mini-feature-store)** | point-in-time-correct joins, so no label leaks from the future |
 | **[mlops-tabular-e2e](https://github.com/leonardocfaria/mlops-tabular-e2e)** | train → MLflow → Docker → drift alarm, end to end |
